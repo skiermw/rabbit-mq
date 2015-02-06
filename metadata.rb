@@ -1,8 +1,9 @@
 name             'rabbitmq'
-maintainer       'The Authors'
-maintainer_email 'you@example.com'
-license          'all_rights'
+maintainer       ''
+maintainer_email ''
+license          ''
 description      'Installs/Configures rabbitmq'
 long_description 'Installs/Configures rabbitmq'
-version          '0.1.0'
+version          '3.3.0'
+depends  		 'rabbitmq'
 
